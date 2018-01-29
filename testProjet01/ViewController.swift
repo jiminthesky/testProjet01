@@ -22,7 +22,9 @@ class ViewController: UITableViewController {
             if item.hasPrefix("nssl") {
                 pictures.append(item)
             }
-        }        
+            print(pictures)
+
+        }
     }
 
     override func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
@@ -43,4 +45,5 @@ class ViewController: UITableViewController {
 
 //
 }
+
 

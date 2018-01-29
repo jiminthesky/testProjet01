@@ -60,7 +60,6 @@
 			children = (
 				04CAC1F5201E44220034185A /* testProjet01 */,
 				04CAC1F4201E44220034185A /* Products */,
-				04CAC208201E44410034185A /* Content */,
 			);
 			sourceTree = "<group>";
 		};
@@ -81,13 +80,6 @@
 				04CAC1FD201E44220034185A /* Assets.xcassets */,
 				04CAC1FF201E44220034185A /* LaunchScreen.storyboard */,
 				04CAC202201E44220034185A /* Info.plist */,
-			);
-			path = testProjet01;
-			sourceTree = "<group>";
-		};
-		04CAC208201E44410034185A /* Content */ = {
-			isa = PBXGroup;
-			children = (
 				04CAC209201E44410034185A /* nssl0049.jpg */,
 				04CAC20A201E44410034185A /* nssl0046.jpg */,
 				04CAC20B201E44410034185A /* nssl0091.jpg */,
@@ -99,7 +91,7 @@
 				04CAC211201E44410034185A /* nssl0033.jpg */,
 				04CAC212201E44410034185A /* nssl0034.jpg */,
 			);
-			path = Content;
+			path = testProjet01;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
