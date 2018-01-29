@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  testProjet01
 //
-//  Created by Jean-Marie de Barros on 1/28/18.
-//  Copyright © 2018 Jean-Marie de Barros. All rights reserved.
+//  Created by Jim on 1/28/18.
+//  Copyright © 2018 Jim. All rights reserved.
 //
 
 import UIKit
